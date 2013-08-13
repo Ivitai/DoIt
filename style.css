@@ -1,20 +1,21 @@
 body {
-background-color: #F5F6CE
+background-color:  #00009C;
 }
 
 .headlink {
 display: block;
 text-align: center;
 padding:10px;
-border:2px outset #F7F8E0;
+border:2px outset black;
 border-radius:25px;
 text-decoration: none;
 color: red;
+font-size:24;
 }
 
 .headLink:hover {
 border:2px inset #F5F6CE;
-background-color: #F7F8E0;
+background-color: blue;
 }
 
 
