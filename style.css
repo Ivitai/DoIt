@@ -3,9 +3,13 @@ background-color: #F5F6CE
 }
 
 .headlink {
+display: block;
+text-align: center;
 padding:10px;
 border:2px outset #F7F8E0;
 border-radius:25px;
+text-decoration: none;
+color: red;
 }
 
 .headLink:hover {
